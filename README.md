@@ -1,2 +1,2 @@
-# apps
-Small Apps
+# Purpose
+To store my small apps.
